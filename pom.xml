@@ -13,7 +13,6 @@
   <artifactId>test-bushu-war</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
-	111222
 
   <name>test-bushu-war Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
